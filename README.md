@@ -9,23 +9,23 @@ This is a project, which reads the database and write the data into a csv file.
 
 first you have to install **nmp**:
 
-+ npm install -y 
++ ` npm install -y  `
 
 then you have to do:
 
-+ npm init
++ ` npm init `
 
 after that you have to install **mongoose**:
 
-+ npm -i mongoose --save
++ ` npm -i mongoose --save `
 
 also you have to install **dotenv**:
 
-+ npm install dotenv --save
++ ` npm install dotenv --save `
 
 and to start the database:
 
-+ mongod
++ ` mongod `
 
 and the output will look as following:
 
